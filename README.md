@@ -22,10 +22,13 @@
   Vist the website here: [https://austinslatey.github.io/WorkAround-Explorer/](https://austinslatey.github.io/WorkAround-Explorer/ ) 
 
   ## User-Story
-  AS A USER I WANT to be able to see all salaries inside the tech industry, THEN I will be able to select a role and company FINALLY details will render depending on my decision
+  - AS A USER 
+  - I WANT to be able to see all salaries inside the tech industry
+  - THEN I will be able to select a role and company 
+  - FINALLY the details will render depending on my decision
 
   ## Description
-  The tech industry is so vast this tool helps newcomers visualize the average salaries depending on which role, and company size they chose
+  The objective for this project is to create a new application for a hypothetical research organization to provide salary's trending inside the tech industry, while being visually appealing. Using the import/export features in JavaScript ES6 module, this application was able to be accomplished.
 
   ## Installation
   Clone repository and run live server in code editor, or vist deployed website
