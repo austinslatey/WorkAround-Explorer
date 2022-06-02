@@ -1,7 +1,7 @@
-#WorkAround-Explorer
+# WorkAround-Explorer
 
 
-  ##Table of Contents
+  ## Table of Contents
 
   * [Deployment](#deployment)
   * [User-Story](#user-story)
