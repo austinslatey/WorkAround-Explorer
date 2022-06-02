@@ -19,7 +19,7 @@
 
   ---
   ## Deployment
-  Vist the website here: ()[]  
+  Vist the website here: [https://austinslatey.github.io/WorkAround-Explorer/](https://austinslatey.github.io/WorkAround-Explorer/ ) 
 
   ## User-Story
   AS A USER I WANT to be able to see all salaries inside the tech industry, THEN I will be able to select a role and company FINALLY details will render depending on my decision
