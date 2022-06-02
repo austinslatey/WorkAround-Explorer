@@ -19,7 +19,8 @@
 
   ---
   ## Deployment
-  Vist the website here: [https://austinslatey.github.io/WorkAround-Explorer/](https://austinslatey.github.io/WorkAround-Explorer/ ) 
+  Vist the website here: [https://austinslatey.github.io/WorkAround-Explorer/](https://austinslatey.github.io/WorkAround-Explorer/)
+  ![application](assets/Screenshot%202022-06-02%20144930.png)
 
   ## User-Story
   - AS A USER 
